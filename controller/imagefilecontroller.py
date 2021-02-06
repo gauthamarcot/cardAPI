@@ -1,4 +1,5 @@
 from flask import request
+from processor import imageprocessor
 
 import app
 
